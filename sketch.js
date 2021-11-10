@@ -20,7 +20,7 @@ back2img=loadImage("images/garden.png")
 girlimg=loadImage("wgirl/g1.png")
 gImg=loadImage("wgirl/g0.png")
 //,"wgirl/g2.png","wgirl/g3.png","wgirl/g4.png","wgirl/g5.png","wgirl/g6.png","wgirl/g7.png")
-back3= loadImage("images/whjrlevel2.png")
+back3= loadImage("level2.png")
 }
 
 function setup(){
